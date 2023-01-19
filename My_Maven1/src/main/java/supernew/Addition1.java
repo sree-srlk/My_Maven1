@@ -5,9 +5,6 @@ public class Addition1 extends Addition
 	public Addition1()
 	{
 		super(10,25);
-		{
-		System.out.println("sum= "+sum);
-		}
 		if(sum%10==0)
 		{
 			System.out.println("Divisible");
